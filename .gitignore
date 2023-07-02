@@ -2,3 +2,4 @@ old-data/*
 sample-main.csv
 sample.csv
 starter-notebook.ipynb
+.DS_Store
